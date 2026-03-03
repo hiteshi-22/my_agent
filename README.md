@@ -1,0 +1,2 @@
+# LLM Agents Project This repository contains AI agents built with Google's Generative AI and Tavily search. The agents can answer user queries by combining LLM capabilities with external tools. --- 
+    ## 📂 Project Structure
